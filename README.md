@@ -130,8 +130,6 @@ The models are evaluated using:
 ![Sample Images](images/sample_images.png)
 
 ![Training Curves](images/training_curves.png)
-
-![Model Comparison](images/model_comparison.png)
 ```
 
 ## Future Improvements
