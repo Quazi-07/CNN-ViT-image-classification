@@ -105,11 +105,11 @@ Run the notebooks in order:
 
 | Notebook | Description |
 |---|---|
-| [01_CNN_model.ipynb](01_CNN_model.ipynb) | CNN model from scratch for image classification |
-| [02_LeNET_model.ipynb](02_LeNET_model.ipynb) | LeNet-5 architecture implementation |
-| [03_AlexNET_model.ipynb](03_AlexNET_model.ipynb) | AlexNet architecture implementation |
-| [04_VGGNET_model.ipynb](04_VGGNET_model.ipynb) | VGGNet architecture implementation |
-| [05_ViT_model.ipynb](05_ViT_model.ipynb) | Vision Transformer implementation |
+| [01_CNN_model.ipynb](notebooks/01_CNN_model.ipynb) | CNN model from scratch for image classification |
+| [02_LeNET_model.ipynb](notebooks/02_LeNET_model.ipynb) | LeNet-5 architecture implementation |
+| [03_AlexNET_model.ipynb](notebooks/03_AlexNET_model.ipynb) | AlexNet architecture implementation |
+| [04_VGGNET_model.ipynb](notebooks/04_VGGNET_model.ipynb) | VGGNet architecture implementation |
+| [05_ViT_model.ipynb](notebooks/05_ViT_model.ipynb) | Vision Transformer implementation |
 
 ## Results
 
