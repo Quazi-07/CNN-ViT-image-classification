@@ -103,8 +103,6 @@ pip install -r requirements.txt
 
 Run the notebooks in order:
 
-```text
-
 | Notebook | Description |
 |---|---|
 | [01_CNN_model.ipynb](01_CNN_model.ipynb) | CNN model from scratch for image classification |
@@ -112,7 +110,6 @@ Run the notebooks in order:
 | [03_AlexNET_model.ipynb](03_AlexNET_model.ipynb) | AlexNet architecture implementation |
 | [04_VGGNET_model.ipynb](04_VGGNET_model.ipynb) | VGGNet architecture implementation |
 | [05_ViT_model.ipynb](05_ViT_model.ipynb) | Vision Transformer implementation |
-```
 
 ## Results
 
