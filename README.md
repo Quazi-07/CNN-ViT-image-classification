@@ -126,11 +126,10 @@ The models are evaluated using:
 
 ## Screenshots
 
-```markdown
+### Sample Images
 ![Sample Images](images/sample_images.png)
-
+### Training Curves
 ![Training Curves](images/training_curves.png)
-```
 
 ## Future Improvements
 I developed these deep learning architectures by studying and following the concepts presented in relevant published research articles, including [LeNet-5](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), [AlexNet](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [VGGNet](https://arxiv.org/abs/1409.1556), and [Vision Transformer](https://arxiv.org/abs/2010.11929). While some implementations may be adapted from deeper investigation, the main goal of this project was to understand the original model architectures and recreate them for the selected image classification dataset.
