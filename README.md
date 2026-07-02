@@ -43,18 +43,22 @@ The following models are implemented and compared:
 ### 1. LeNet-5
 
 LeNet-5 is one of the earliest convolutional neural network architectures. It is simple and useful for understanding the basic structure of CNN-based image classification.
+![LeNET-5 Architecture](images/LeNET5.png)
 
 ### 2. AlexNet
 
 AlexNet is a deeper CNN architecture that helped popularize deep learning for large-scale image classification. It uses multiple convolutional layers, pooling layers, and fully connected layers.
+![AlexNet Architecture](images/AlexNET.png)
 
 ### 3. VGGNet
 
 VGGNet uses small convolutional filters and deeper network architecture. It is widely used as a baseline model in computer vision tasks.
+![VGGNet Architecture](images/VGGNet.png)
 
 ### 4. Vision Transformer, ViT
 
 Vision Transformer applies transformer-based architecture to image classification. It divides images into patches and uses self-attention to learn relationships between image regions.
+![ViT Architecture](images/ViT.jpg)
 
 ## Project Workflow
 
