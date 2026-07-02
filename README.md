@@ -53,6 +53,7 @@ AlexNet is a deeper CNN architecture that helped popularize deep learning for la
 ### 3. VGGNet
 
 VGGNet uses small convolutional filters and deeper network architecture. It is widely used as a baseline model in computer vision tasks.
+
 ![VGGNet Architecture](images/VGGNet.png)
 
 ### 4. Vision Transformer, ViT
